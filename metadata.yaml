@@ -1,0 +1,41 @@
+_repo: The-Haunted-Man-and-the-Ghost-s-Bargain_644
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: "The Haunted Man and the Ghost's Bargain, A Fancy for Christmas-Time\
+  \ (better known as The Haunted Man and the Ghost's Bargain or simply as The Haunted\
+  \ Man) is a novella by Charles Dickens first published in 1848. It is the fifth\
+  \ and last of Dickens's Christmas novellas. The story is more about the spirit of\
+  \ the holidays than about the holidays themselves, harking back to the first in\
+  \ the series, A Christmas Carol. The tale centres on a Professor Redlaw and those\
+  \ close to him.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '1996-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '644'
+  wikidata: Q3795070
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcc 'PR'
+- !lcsh 'Ghost stories'
+- GITenberg
+title: The Haunted Man and the Ghost's Bargain
+url: http://www.gutenberg.org/ebooks/644
+wikipedia:
+- https://ru.wikipedia.org/wiki/%D0%9E%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D0%BC%D1%8B%D0%B9,_%D0%B8%D0%BB%D0%B8_%D0%A1%D0%B4%D0%B5%D0%BB%D0%BA%D0%B0_%D1%81_%D0%BF%D1%80%D0%B8%D0%B7%D1%80%D0%B0%D0%BA%D0%BE%D0%BC
+- https://en.wikipedia.org/wiki/The_Haunted_Man_and_the_Ghost%27s_Bargain
+- https://kw.wikipedia.org/wiki/An_Den_Tarosys
+- https://it.wikipedia.org/wiki/Il_patto_col_fantasma
+- https://pt.wikipedia.org/wiki/The_Haunted_Man_and_the_Ghost%27s_Bargain
